@@ -1,5 +1,7 @@
 # Meteor
 
+<img src="assets/meteor-icon.svg" alt="Meteor app icon" width="96" height="96">
+
 **Don’t let your day get lost in space.**
 
 Meteor helps you arrive at meetings on time, with reminders, countdowns and quick access to meeting links from your Mac’s menu bar.
